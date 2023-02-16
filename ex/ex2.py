@@ -1,0 +1,5 @@
+name = input("Введите ваше имя:")
+pages_read = int(30)
+pages_yesterday = int(input("Количество страниц прочитанных вчера:"))
+pages = (pages_read + pages_yesterday)
+print(name, "Вами прочитано", pages, "страниц", sep=" ")
