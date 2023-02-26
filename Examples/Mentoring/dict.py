@@ -15,8 +15,14 @@ print("_______________")
 #Доступ к ключам и значениям
 for el , value in country.items():
     print(el, "-", value)
+print("Обновить занчение словаря")
+country['code'] = 'none'
+print(country)
 
 print("_______________")
+#Очистить элемент словаря метод pop popitem (удалить последний элемент)
+country.pop("name")
+print(country)
 #Очистить словарь
 country.clear()
 print(country)
