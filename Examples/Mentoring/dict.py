@@ -26,3 +26,15 @@ print(country)
 #Очистить словарь
 country.clear()
 print(country)
+
+#Если большая вложенность , словарь в словаре
+person = {
+    "user1" : {
+        "first_name" : "Bob",
+        "last_name" : "Marley",
+        "age" : 30,
+        "adress" : ("SPb", "Nevsky", "30")
+
+    }
+}
+print(person["user1"]["adress"])
