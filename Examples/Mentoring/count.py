@@ -35,3 +35,7 @@ print("/".join(list1))
 #удаление пробелов вначале и вконце
 txt = "    sdhgnidgns    12isjgnsgni   "
 print(txt.strip())
+
+# Замена символов строке заменяем l на о
+txt = "olololololololo"
+print(txt.replace("l", "o"))
