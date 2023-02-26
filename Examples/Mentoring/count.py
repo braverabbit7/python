@@ -21,3 +21,17 @@ print(a + " " + b)
 print(a[0])
 #Срез
 print(b[0:2])
+#Методы написания строк
+print(a.upper())
+print(b.lower())
+print(a.capitalize())
+#переводим текст в список
+txt = "привет мир куда идешь"
+print(txt.split(" "))
+#Список в строчку перевод через /
+list1 = ["a", "b", "c"]
+print("/".join(list1))
+
+#удаление пробелов вначале и вконце
+txt = "    sdhgnidgns    12isjgnsgni   "
+print(txt.strip())
