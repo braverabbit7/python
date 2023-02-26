@@ -21,3 +21,11 @@ print(x.startswith('начина'))
 print(x.startswith('указанным'))
 #С 11 символа
 print(x.startswith('указанным',11))
+#Endwith
+print("Endwith")
+str = 'Быть или не быть, вот в чём вопрос.'
+
+print(str.endswith('вопрос.'))   # true
+print(str.endswith('быть'))     # false
+print(str.endswith('быть', -23)) # true ??? не возвращает
+
