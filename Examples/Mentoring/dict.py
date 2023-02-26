@@ -9,4 +9,14 @@ print(country["name"])
 #используем dict
 country2 = dict(code="ru", name="Russian", )
 print(country2["code"])
-print(country2.items())
+#print(country2.items())
+
+print("_______________")
+#Доступ к ключам и значениям
+for el , value in country.items():
+    print(el, "-", value)
+
+print("_______________")
+#Очистить словарь
+country.clear()
+print(country)
