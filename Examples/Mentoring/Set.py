@@ -17,3 +17,7 @@ print(b)
 b.clear()
 print(b)
 print("__________________")
+#Frozenset - не изменяемый кортедж set
+a_n = frozenset(a)
+print(a_n)
+#нельзя обратиться к элементу кортеджа a_n.add(44)
