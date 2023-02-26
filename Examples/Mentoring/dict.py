@@ -9,3 +9,4 @@ print(country["name"])
 #используем dict
 country2 = dict(code="ru", name="Russian", )
 print(country2["code"])
+print(country2.items())
