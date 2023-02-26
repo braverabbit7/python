@@ -13,3 +13,11 @@ print(a.index('t'))
 print(a.index('t', 4))
 
 #Startwith
+#Метод str.startswith() возвращает True, если строка str начинается указанным префиксом prefix,
+# в противном случае возвращает False.
+print("Startwith")
+x = 'начинается указанным префиксом prefix'
+print(x.startswith('начина'))
+print(x.startswith('указанным'))
+#С 11 символа
+print(x.startswith('указанным',11))
