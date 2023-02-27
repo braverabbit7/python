@@ -33,8 +33,13 @@ person = {
         "first_name" : "Bob",
         "last_name" : "Marley",
         "age" : 30,
-        "adress" : ("SPb", "Nevsky", "30")
+        "adress" : ("SPb", "Nevsky", "30"),
+        (1,2, ): 30
 
     }
 }
-print(person["user1"]["adress"])
+if person.get("user2") != None:
+
+    print(person["user2"][(1, )]),
+else:
+    print("not found")
