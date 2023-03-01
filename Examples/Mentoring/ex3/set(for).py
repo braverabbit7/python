@@ -8,3 +8,13 @@ for i in s1:
             break
 
 print(c)
+
+for i in s1:
+    if i in c:
+        continue
+    for j in s2:
+        if i == j:
+            c.append(i)
+            break
+
+print(c)
