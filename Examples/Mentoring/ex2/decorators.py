@@ -33,7 +33,7 @@ def f():
             l.append(i)
 #    print(datetime.now() -stat)
     return l
-@timeit
+
 
 l1 = f()
 
