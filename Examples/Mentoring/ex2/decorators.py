@@ -24,7 +24,7 @@ def timeit(func):
 
 
 print("С декоратором")
-@timeit
+
 def f():
 #    stat = datetime.now()
     l = []
@@ -33,8 +33,10 @@ def f():
             l.append(i)
 #    print(datetime.now() -stat)
     return l
-
+f = timeit(f)
 
 l1 = f()
 
 print(l1)
+
+#----
