@@ -21,4 +21,12 @@ print(list(map(len, a)))
 print("-----------Filter------------")
 
 def f(x):
-    a = [1, 2, 3, 4, 5, 6]
+    if x>4:
+        return True
+    else:
+        return False
+
+a = [1, 2, 3, 4, 5, 6, 3, 5, 7, 2, 1, 0]
+print(list(filter(f, a)))
+
+print("---------Функция reduce-------------------")
