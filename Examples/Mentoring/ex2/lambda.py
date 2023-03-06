@@ -18,3 +18,4 @@ def mul(f, i=2):
 
 print(mul(lambda a, b: a + b))
 
+
