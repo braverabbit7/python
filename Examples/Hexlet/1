@@ -1,0 +1,1130 @@
+DisplayName     : Intel(R) HID Event Filter
+UninstallString : "C:\Program Files (x86)\Intel\Intel(R) HID Event Filter\Uninstall\install.exe" -uninstall
+Publisher       : Intel Corporation
+NoModify        : 1
+NoRepair        : 1
+InstallLocation : C:\Program Files (x86)\Intel\Intel(R) HID Event Filter
+DisplayIcon     : "C:\Program Files (x86)\Intel\Intel(R) HID Event Filter\Uninstall\install.exe",0
+DisplayVersion  : 2.2.1.384
+VersionMajor    : 2
+VersionMinor    : 2
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\3FB06EEC-013D-4366-9918-71B97DFB
+                  84EB
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : 3FB06EEC-013D-4366-9918-71B97DFB84EB
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayIcon      : "C:\Program Files (x86)\AnyDesk\AnyDesk.exe"
+DisplayName      : AnyDesk
+DisplayVersion   : ad 7.1.7
+EstimatedSize    : 2048
+HelpLink         : https://help.anydesk.com/
+InstallLocation  : "C:\Program Files (x86)\AnyDesk"
+Publisher        : AnyDesk Software GmbH
+UninstallString  : "C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --uninstall
+VersionMajor     : 7
+VersionMinor     : 1
+VersionBuild     : 7
+VersionTimestamp : 20221220145400
+WindowsInstaller : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AnyDesk
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName      : AnyDesk
+PSDrive          : HKLM
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+SystemComponent : 1
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Connection Manager
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : Google Chrome
+UninstallString : "C:\Program Files\Google\Chrome\Application\110.0.5481.178\Installer\setup.exe" --uninstall --channel=stable --system-level --verbose-logging
+InstallLocation : C:\Program Files\Google\Chrome\Application
+DisplayIcon     : C:\Program Files\Google\Chrome\Application\chrome.exe,0
+NoModify        : 1
+NoRepair        : 1
+Publisher       : Google LLC
+Version         : 110.0.5481.178
+DisplayVersion  : 110.0.5481.178
+InstallDate     : 20230228
+VersionMajor    : 5481
+VersionMinor    : 178
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Google Chrome
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Google Chrome
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : Microsoft Edge
+DisplayVersion  : 110.0.1587.63
+Version         : 110.0.1587.63
+NoRemove        : 1
+ModifyPath      : "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /install
+                  appguid={56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}&appname=Microsoft%20Edge&needsadmin=true&repairtype=windowsonlinerepair /installsource windowsupdate
+UninstallString : "C:\Program Files (x86)\Microsoft\Edge\Application\110.0.1587.63\Installer\setup.exe" --uninstall --msedge --channel=stable --system-level
+                  --verbose-logging
+InstallLocation : C:\Program Files (x86)\Microsoft\Edge\Application
+DisplayIcon     : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,0
+NoRepair        : 1
+Publisher       : Microsoft Corporation
+InstallDate     : 20230306
+VersionMajor    : 1587
+VersionMinor    : 63
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Microsoft Edge
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName    : Microsoft Edge Update
+DisplayVersion : 1.3.173.45
+Version        : 1.3.173.45
+NoRemove       : 1
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge Update
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName    : Microsoft Edge Update
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : Microsoft Edge WebView2 Runtime
+ModifyPath      : "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /install
+                  appguid={F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}&appname=Microsoft%20Edge%20WebView&needsadmin=true&repairtype=windowsonlinerepair /installsource
+                  otherinstallcmd
+UninstallString : "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\Installer\setup.exe" --uninstall --msedgewebview --system-level
+                  --verbose-logging
+InstallLocation : C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+DisplayIcon     : C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe,0
+NoRepair        : 1
+Publisher       : Microsoft Corporation
+Version         : 110.0.1587.63
+DisplayVersion  : 110.0.1587.63
+InstallDate     : 20230306
+VersionMajor    : 1587
+VersionMinor    : 63
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft EdgeWebView
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Microsoft EdgeWebView
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : OBS Studio
+UninstallString : C:\Program Files\obs-studio\uninstall.exe
+ProductID       : d16d2409-3151-4331-a9b1-dfd8cf3f0d9c
+DisplayIcon     : C:\Program Files\obs-studio\bin\64bit\obs64.exe
+Publisher       : OBS Project
+HelpLink        : https://obsproject.com
+DisplayVersion  : 28.1.2
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\OBS Studio
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : OBS Studio
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName          : OPSWAT Client
+UninstallString      : "C:\\Program Files (x86)\\OPSWAT\\GEARS Client\\GearsInstaller.exe" /u
+QuietUninstallString : "C:\\Program Files (x86)\\OPSWAT\\GEARS Client\\GearsInstaller.exe" /f /u
+DisplayIcon          : C:\Program Files (x86)\OPSWAT\GEARS Client\opswat.ico
+Publisher            : OPSWAT, Inc.
+DisplayVersion       : 7.6.2302.176
+Version              : 117898928
+VersionMajor         : 7
+VersionMinor         : 6
+EstimatedSize        : 43008
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\OPSWAT Gears
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : OPSWAT Gears
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : PyCharm Community Edition 2022.3.1
+UninstallString : C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.1\bin\Uninstall.exe
+InstallLocation : C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.1
+DisplayIcon     : C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.1\bin\pycharm64.exe
+DisplayVersion  : 223.8214.51
+Publisher       : JetBrains s.r.o.
+URLInfoAbout    : https://www.jetbrains.com/products
+InstallType     : HKLM
+NoModify        : 1
+NoRepair        : 1
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\PyCharm Community Edition
+                  2022.3.1
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : PyCharm Community Edition 2022.3.1
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName          : Rockstar Games Launcher
+Comments             : Rockstar Games Launcher
+UninstallString      : "C:\Program Files\Rockstar Games\Launcher\uninstall.exe" -enableFullMode -uninstall=launcher
+QuietUninstallString : "C:\Program Files\Rockstar Games\Launcher\uninstall.exe" /S
+InstallLocation      : C:\Program Files\Rockstar Games\Launcher
+DisplayIcon          : "C:\Program Files\Rockstar Games\Launcher\Launcher.exe"
+Publisher            : Rockstar Games
+HelpLink             : http://www.rockstargames.com/support
+Readme               : http://www.rockstargames.com/support
+URLUpdateInfo        : http://www.rockstargames.com/support
+URLInfoAbout         : http://www.rockstargames.com/support
+DisplayVersion       : 1.0.69.1334
+NoModify             : 1
+NoRepair             : 1
+EstimatedSize        : 240671
+VersionMajor         : 1
+VersionMinor         : 0
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Rockstar Games Launcher
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : Rockstar Games Launcher
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+DisplayIcon     : C:\Program Files\Rockstar Games\Social Club\uninstallRGSCRedistributable.exe
+DisplayName     : Rockstar Games Social Club
+DisplayVersion  : 2.1.6.7
+NoModify        : 1
+NoRepair        : 1
+Publisher       : Rockstar Games
+UninstallString : C:\Program Files\Rockstar Games\Social Club\uninstallRGSCRedistributable.exe
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Rockstar Games Social Club
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Rockstar Games Social Club
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : Steam
+DisplayVersion  : 2.10.91.91
+Publisher       : Valve Corporation
+URLInfoAbout    : http://www.steampowered.com/
+HelpLink        : http://support.steampowered.com/
+DisplayIcon     : C:\Program Files (x86)\Steam\uninstall.exe
+UninstallString : C:\Program Files (x86)\Steam\uninstall.exe
+NoModify        : 1
+NoRepair        : 1
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Steam
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+NoRemove     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\WIC
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName  : WIC
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : YubiKey Manager
+UninstallString : "C:\Program Files\Yubico\YubiKey Manager\ykman-uninstall.exe"
+InstallLocation : C:\Program Files\Yubico\YubiKey Manager
+DisplayVersion  : 1.2.4
+Publisher       : Yubico AB
+URLInfoAbout    : https://www.yubico.com
+NoModify        : 1
+NoRepair        : 1
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\yubikey-manager
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : yubikey-manager
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+DisplayIcon     : C:\ProgramData\{E6468BB5-2D1C-4C49-9D3D-C74423AFFFA7}\zsu-1-1-9-1297.exe
+DisplayName     : Zebra Setup Utilities
+UninstallString : "C:\ProgramData\{E6468BB5-2D1C-4C49-9D3D-C74423AFFFA7}\zsu-1-1-9-1297.exe" REMOVE=TRUE MODIFY=FALSE
+ModifyPath      : C:\ProgramData\{E6468BB5-2D1C-4C49-9D3D-C74423AFFFA7}\zsu-1-1-9-1297.exe
+Publisher       : Zebra Technologies
+Contact         : Zebra Technologies
+HelpLink        : http://www.zebra.com/
+URLUpdateInfo   : http://www.zebra.com/
+Comments        : ZEBRA and the stylized Zebra head are trademarks of Zebra Technologies Corporation, registered in many jurisdictions worldwide. All other trademarks
+                  are the property of their respective owners. ©2022 Zebra Technologies Corporation and/or its affiliates. All rights reserved
+DisplayVersion  : 1.1.9.1297
+VersionMajor    : 1
+VersionMinor    : 1
+InstallLocation : C:\Program Files (x86)\Zebra Technologies\Zebra Setup Utilities
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Zebra Setup Utilities
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : Zebra Setup Utilities
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+NoModify        : 1
+DisplayIcon     : C:\ProgramData\{337696D7-DF60-4F29-A44B-5F68B8FF1522}\ZebraDesigner3.exe
+DisplayName     : ZebraDesigner 3
+UninstallString : "C:\ProgramData\{337696D7-DF60-4F29-A44B-5F68B8FF1522}\ZebraDesigner3.exe" REMOVE=TRUE MODIFY=FALSE
+ModifyPath      : C:\ProgramData\{337696D7-DF60-4F29-A44B-5F68B8FF1522}\ZebraDesigner3.exe
+Publisher       : Zebra Technologies Corporation
+Contact         : Zebra Technologies Corporation
+HelpLink        : http://www.zebra.com
+URLUpdateInfo   : https://www.zebra.com/support
+Comments        : Copyright © 2022 Zebra Technologies Corporation
+DisplayVersion  : 3.2.2.611
+VersionMajor    : 3
+VersionMinor    : 2
+InstallLocation : C:\Program Files\Zebra Technologies\ZebraDesigner 3
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\ZebraDesigner 3
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : ZebraDesigner 3
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{1b5476d9-ab8e-4b0d-b004-059a1bd5568b}\VC_redist.x86.exe
+BundleUpgradeCode    : {{F899BAD3-98ED-308E-A905-56B5338963FF}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 14.28.29914.0
+BundleProviderKey    : VC,redist.x86,x86,14.28,bundle
+BundleTag            :
+EngineVersion        : 3.10.4.4718
+DisplayIcon          : C:\ProgramData\Package Cache\{1b5476d9-ab8e-4b0d-b004-059a1bd5568b}\VC_redist.x86.exe,0
+DisplayName          : Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914
+DisplayVersion       : 14.28.29914.0
+Publisher            : Microsoft Corporation
+ModifyPath           : "C:\ProgramData\Package Cache\{1b5476d9-ab8e-4b0d-b004-059a1bd5568b}\VC_redist.x86.exe" /modify
+NoElevateOnModify    : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{1b5476d9-ab8e-4b0d-b004-059a1bd5568b}\VC_redist.x86.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{1b5476d9-ab8e-4b0d-b004-059a1bd5568b}\VC_redist.x86.exe"  /uninstall
+EstimatedSize        : 20346
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{1b5476d9-ab8e-4b0d-b004-05
+                       9a1bd5568b}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {1b5476d9-ab8e-4b0d-b004-059a1bd5568b}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 5.00.9068.1000
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230207
+InstallLocation     :
+InstallSource       : C:\WINDOWS\system32\config\systemprofile\AppData\Local\mdm\
+NoModify            : 1
+NoRemove            : 1
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 5964
+SystemComponent     : 1
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 5
+VersionMinor        : 0
+WindowsInstaller    : 1
+Version             : 83895148
+Language            : 1033
+DisplayName         : ConfigMgr Client Setup Bootstrap
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{24EBA3C0-16D0-4BD8-917B-872
+                      70796B08F}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {24EBA3C0-16D0-4BD8-917B-87270796B08F}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{25647D41-C423-4B4B-8C30-B7A6C1BFAB0E}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 7140
+UninstallString     : MsiExec.exe /I{25647D41-C423-4B4B-8C30-B7A6C1BFAB0E}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP SFTP Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{25647D41-C423-4B4B-8C30-B7A
+                      6C1BFAB0E}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {25647D41-C423-4B4B-8C30-B7A6C1BFAB0E}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{30A6542B-C844-49EF-850B-97A74D9D6EE5}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 6416
+UninstallString     : MsiExec.exe /I{30A6542B-C844-49EF-850B-97A74D9D6EE5}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP EmailSMTP Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{30A6542B-C844-49EF-850B-97A
+                      74D9D6EE5}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {30A6542B-C844-49EF-850B-97A74D9D6EE5}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 14.28.29914
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20221129
+InstallLocation     :
+InstallSource       : C:\ProgramData\Package Cache\{42365A3A-622A-4EED-A727-FE192A794AFD}v14.28.29914\packages\vcRuntimeMinimum_x86\
+ModifyPath          : MsiExec.exe /I{42365A3A-622A-4EED-A727-FE192A794AFD}
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 1716
+SystemComponent     : 1
+UninstallString     : MsiExec.exe /I{42365A3A-622A-4EED-A727-FE192A794AFD}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 14
+VersionMinor        : 28
+WindowsInstaller    : 1
+Version             : 236745946
+Language            : 1033
+DisplayName         : Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{42365A3A-622A-4EED-A727-FE1
+                      92A794AFD}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {42365A3A-622A-4EED-A727-FE192A794AFD}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 1.63.103.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230216
+InstallLocation     :
+InstallSource       : C:\WINDOWS\system32\config\systemprofile\AppData\Local\mdm\
+ModifyPath          : MsiExec.exe /I{46D9F20D-CE88-41AA-857F-37AB4786B1FF}
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 17414
+UninstallString     : MsiExec.exe /I{46D9F20D-CE88-41AA-857F-37AB4786B1FF}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 1
+VersionMinor        : 63
+WindowsInstaller    : 1
+Version             : 20906087
+Language            : 1033
+DisplayName         : Microsoft Intune Management Extension
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{46D9F20D-CE88-41AA-857F-37A
+                      B4786B1FF}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {46D9F20D-CE88-41AA-857F-37AB4786B1FF}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 0.00.0005
+HelpLink            : http://www.hp.com/support
+HelpTelephone       : 1-800-invent
+InstallDate         : 20230111
+InstallLocation     : C:\ProgramData\HP\HP Color LaserJet Pro M478f-9f Help\Help\
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /X{48C8CD48-67BE-4FA8-B287-ACF722B65F9B}
+NoModify            : 1
+NoRepair            : 1
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 1324
+UninstallString     : MsiExec.exe /X{48C8CD48-67BE-4FA8-B287-ACF722B65F9B}
+URLInfoAbout        : www.hp.com
+URLUpdateInfo       :
+VersionMajor        : 0
+VersionMinor        : 0
+WindowsInstaller    : 1
+Version             : 5
+Language            : 0
+DisplayName         : HP Color LaserJet Pro M478f-9f Help
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{48C8CD48-67BE-4FA8-B287-ACF
+                      722B65F9B}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {48C8CD48-67BE-4FA8-B287-ACF722B65F9B}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 3.10.7751.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230126
+InstallLocation     :
+InstallSource       : C:\ProgramData\Package Cache\{691AAAA1-FE86-4973-8DA2-6AA2B3327562}v3.10.7751.0\
+ModifyPath          : MsiExec.exe /X{691AAAA1-FE86-4973-8DA2-6AA2B3327562}
+NoModify            : 1
+Publisher           : Python Software Foundation
+Readme              :
+Size                :
+EstimatedSize       : 1452
+UninstallString     : MsiExec.exe /X{691AAAA1-FE86-4973-8DA2-6AA2B3327562}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 3
+VersionMinor        : 10
+WindowsInstaller    : 1
+Version             : 50994759
+Language            : 1033
+DisplayName         : Python Launcher
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{691AAAA1-FE86-4973-8DA2-6AA
+                      2B3327562}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {691AAAA1-FE86-4973-8DA2-6AA2B3327562}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{80ec5470-ac51-4956-b2dc-87dc2cdaa04b}\SetupChipset.exe
+BundleUpgradeCode    : {{D8CA2E7A-5763-4161-82B8-F870F2BD4F2F}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 10.1.18698.8258
+VersionMajor         : 10
+VersionMinor         : 1
+BundleProviderKey    : {80ec5470-ac51-4956-b2dc-87dc2cdaa04b}
+BundleTag            :
+EngineVersion        : 3.11.2.6009
+DisplayIcon          : C:\ProgramData\Package Cache\{80ec5470-ac51-4956-b2dc-87dc2cdaa04b}\SetupChipset.exe,0
+DisplayName          : Intel(R) Chipset Device Software
+DisplayVersion       : 10.1.18698.8258
+Publisher            : Intel(R) Corporation
+URLInfoAbout         : http://www.intel.com
+NoModify             : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{80ec5470-ac51-4956-b2dc-87dc2cdaa04b}\SetupChipset.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{80ec5470-ac51-4956-b2dc-87dc2cdaa04b}\SetupChipset.exe"  /uninstall
+EstimatedSize        : 2688
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{80ec5470-ac51-4956-b2dc-87
+                       dc2cdaa04b}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {80ec5470-ac51-4956-b2dc-87dc2cdaa04b}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{825CC066-DE75-4BCB-AA16-6840D5D72C3A}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 3717
+UninstallString     : MsiExec.exe /I{825CC066-DE75-4BCB-AA16-6840D5D72C3A}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP Dropbox Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{825CC066-DE75-4BCB-AA16-684
+                      0D5D72C3A}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {825CC066-DE75-4BCB-AA16-6840D5D72C3A}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{86f9cad9-179b-4c1c-a869-8ff9d15191dd}\WirelessSetup.exe
+BundleUpgradeCode    : {{991283B1-2A60-4F73-8C2A-0520A968E7CD}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 22.150.1.1
+VersionMajor         : 22
+VersionMinor         : 150
+BundleProviderKey    : {86f9cad9-179b-4c1c-a869-8ff9d15191dd}
+BundleTag            : InstallUWD_Dell_DriverOnly
+EngineVersion        : 3.11.1.2318
+DisplayIcon          : C:\ProgramData\Package Cache\{86f9cad9-179b-4c1c-a869-8ff9d15191dd}\WirelessSetup.exe,0
+DisplayName          : Intel® Software Installer
+DisplayVersion       : 22.150.1.1
+Publisher            : Intel Corporation
+URLInfoAbout         : http://www.intel.com/support/go/wireless_support
+URLUpdateInfo        : http://downloadfinder.intel.com
+NoModify             : 1
+NoRemove             : 1
+SystemComponent      : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{86f9cad9-179b-4c1c-a869-8ff9d15191dd}\WirelessSetup.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{86f9cad9-179b-4c1c-a869-8ff9d15191dd}\WirelessSetup.exe"  /uninstall
+EstimatedSize        : 105851
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{86f9cad9-179b-4c1c-a869-8f
+                       f9d15191dd}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {86f9cad9-179b-4c1c-a869-8ff9d15191dd}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{89D0D305-F7AB-4871-BC1A-776A8B7EFD13}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 5516
+UninstallString     : MsiExec.exe /I{89D0D305-F7AB-4871-BC1A-776A8B7EFD13}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP SharePoint Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{89D0D305-F7AB-4871-BC1A-776
+                      A8B7EFD13}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {89D0D305-F7AB-4871-BC1A-776A8B7EFD13}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 7.6.605.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20221129
+InstallLocation     : yes
+InstallSource       : C:\Windows\IMECache\3fbac9bf-f543-45e4-8147-7dee4f9098e7_1\
+NoModify            : 1
+NoRemove            : 1
+NoRepair            : 1
+Publisher           : OPSWAT, Inc.
+Readme              :
+Size                :
+EstimatedSize       : 18857
+SystemComponent     : 1
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 7
+VersionMinor        : 6
+WindowsInstaller    : 1
+Version             : 117834333
+Language            : 1033
+DisplayName         : OPSWAT Client
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{8AF70079-42E8-4194-A888-387
+                      11BD0F50E}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {8AF70079-42E8-4194-A888-38711BD0F50E}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+DisplayName     : L.A. Noire
+DisplayVersion  : 2675.1.0.0
+Publisher       : Rockstar Games
+Comments        : L.A. Noire
+HelpLink        : http://www.rockstargames.com/support
+Readme          : http://www.rockstargames.com/support
+URLInfoAbout    : http://www.rockstargames.com/support
+URLUpdateInfo   : http://www.rockstargames.com/support
+VersionMajor    : 1
+VersionMinor    : 0
+NoModify        : 1
+NoRepair        : 1
+DisplayIcon     : "C:\Program Files\Rockstar Games\L.A. Noire\LANoire.exe"
+InstallLocation : C:\Program Files\Rockstar Games\L.A. Noire
+UninstallString : "C:\Program Files\Rockstar Games\L.A. Noire\uninstall.exe" -enableFullMode -uninstall=lanoire
+EstimatedSize   : 14151191
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{915726DF-7891-444A-AA03-0DF1D64
+                  F561A}
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : {915726DF-7891-444A-AA03-0DF1D64F561A}
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 1.1.9.1297
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20221205
+InstallLocation     : C:\Program Files (x86)\Zebra Technologies\Zebra Setup Utilities
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\mia1\
+NoModify            : 1
+NoRemove            : 1
+NoRepair            : 1
+Publisher           : Zebra Technologies
+Readme              :
+Size                :
+EstimatedSize       : 34025
+SystemComponent     : 1
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 1
+VersionMinor        : 1
+WindowsInstaller    : 1
+Version             : 16842761
+Language            : 1033
+DisplayName         : Zebra Setup Utilities
+UninstallString     : C:\ProgramData\{E6468BB5-2D1C-4C49-9D3D-C74423AFFFA7}\zsu-1-1-9-1297.exe
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{9207A8EC-3B2D-4A4A-8BF7-957
+                      FC19BB3DE}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {9207A8EC-3B2D-4A4A-8BF7-957FC19BB3DE}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 9.0.30729
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230108
+InstallLocation     :
+InstallSource       : c:\a9ba0d32c30ce86c6c10\
+ModifyPath          : MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}
+NoModify            : 1
+NoRepair            : 1
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 10520
+UninstallString     : MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 9
+VersionMinor        : 0
+WindowsInstaller    : 1
+Version             : 151025673
+Language            : 1033
+DisplayName         : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{9A25302D-30C0-39D9-BD6F-21E
+                      6EC160475}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {9A25302D-30C0-39D9-BD6F-21E6EC160475}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{9B918001-035B-44A1-9A4D-4E2B8B19E6DD}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 3724
+UninstallString     : MsiExec.exe /I{9B918001-035B-44A1-9A4D-4E2B8B19E6DD}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP Google Drive Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{9B918001-035B-44A1-9A4D-4E2
+                      B8B19E6DD}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {9B918001-035B-44A1-9A4D-4E2B8B19E6DD}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 9.0.30729.6161
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230108
+InstallLocation     :
+InstallSource       : c:\6dd523646ab0491243c863d7c3e0\
+ModifyPath          : MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}
+NoModify            : 1
+NoRepair            : 1
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 10440
+UninstallString     : MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 9
+VersionMinor        : 0
+WindowsInstaller    : 1
+Version             : 151025673
+Language            : 1033
+DisplayName         : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{9BE518E6-ECC6-35A9-88E4-877
+                      55C07200F}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {9BE518E6-ECC6-35A9-88E4-87755C07200F}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{a75f0c38-355e-478f-b573-1dbc42915c5c}\dotnet-runtime-6.0.14-win-x64.exe
+BundleUpgradeCode    : {{B19A028F-5C89-7AF4-5102-0F8ED67CCACA}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 6.0.14.32123
+VersionMajor         : 6
+VersionMinor         : 0
+BundleProviderKey    : {a75f0c38-355e-478f-b573-1dbc42915c5c}
+BundleTag            :
+EngineVersion        : 3.14.0.5722
+DisplayIcon          : C:\ProgramData\Package Cache\{a75f0c38-355e-478f-b573-1dbc42915c5c}\dotnet-runtime-6.0.14-win-x64.exe,0
+DisplayName          : Microsoft .NET Runtime - 6.0.14 (x64)
+DisplayVersion       : 6.0.14.32123
+Publisher            : Microsoft Corporation
+URLInfoAbout         : https://dot.net/core
+ModifyPath           : "C:\ProgramData\Package Cache\{a75f0c38-355e-478f-b573-1dbc42915c5c}\dotnet-runtime-6.0.14-win-x64.exe" /modify
+NoElevateOnModify    : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{a75f0c38-355e-478f-b573-1dbc42915c5c}\dotnet-runtime-6.0.14-win-x64.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{a75f0c38-355e-478f-b573-1dbc42915c5c}\dotnet-runtime-6.0.14-win-x64.exe"  /uninstall
+EstimatedSize        : 97667
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{a75f0c38-355e-478f-b573-1d
+                       bc42915c5c}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {a75f0c38-355e-478f-b573-1dbc42915c5c}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 2.3.7
+HelpLink            : http://www.infoblox.com/
+HelpTelephone       :
+InstallDate         : 20230218
+InstallLocation     :
+InstallSource       : C:\ProgramData\Infoblox\ActiveTrust Endpoint\download\
+ModifyPath          : MsiExec.exe /X{A785B919-BB05-4564-B521-698DD12F2E80}
+NoModify            : 1
+Publisher           : Infoblox
+Readme              :
+Size                :
+EstimatedSize       : 28523
+UninstallString     : MsiExec.exe /X{A785B919-BB05-4564-B521-698DD12F2E80}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 2
+VersionMinor        : 3
+WindowsInstaller    : 1
+Version             : 33751047
+Language            : 1033
+DisplayName         : BloxOne® Endpoint
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{A785B919-BB05-4564-B521-698
+                      DD12F2E80}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {A785B919-BB05-4564-B521-698DD12F2E80}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             : Customer Support
+DisplayVersion      : 1.8.0
+HelpLink            : http://www.adobe.com/support/main.html
+HelpTelephone       :
+InstallDate         : 20230223
+InstallLocation     : C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\
+InstallSource       : C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\
+ModifyPath          : MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601042}
+Publisher           : Adobe Systems Incorporated
+Readme              : Readme.htm
+Size                :
+EstimatedSize       : 2036
+SystemComponent     : 1
+UninstallString     : MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601042}
+URLInfoAbout        : http://www.adobe.com
+URLUpdateInfo       : http://www.adobe.com/products/acrobat/readstep.html
+VersionMajor        : 1
+VersionMinor        : 8
+WindowsInstaller    : 1
+Version             : 17301504
+Language            : 1033
+DisplayName         : Adobe Refresh Manager
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{AC76BA86-0804-1033-1959-018
+                      244601042}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {AC76BA86-0804-1033-1959-018244601042}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+UninstallString : C:\ProgramData\{337696D7-DF60-4F29-A44B-5F68B8FF1522}\ZebraDesigner3.exe
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{B5E9064F-6922-46E5-9EAC-F167340
+                  308A6}
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : {B5E9064F-6922-46E5-9EAC-F167340308A6}
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 14.28.29914
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20221129
+InstallLocation     :
+InstallSource       : C:\ProgramData\Package Cache\{BD8C6100-7C7D-48DD-93BA-69F6828213FE}v14.28.29914\packages\vcRuntimeAdditional_x86\
+ModifyPath          : MsiExec.exe /I{BD8C6100-7C7D-48DD-93BA-69F6828213FE}
+Publisher           : Microsoft Corporation
+Readme              :
+Size                :
+EstimatedSize       : 10420
+SystemComponent     : 1
+UninstallString     : MsiExec.exe /I{BD8C6100-7C7D-48DD-93BA-69F6828213FE}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 14
+VersionMinor        : 28
+WindowsInstaller    : 1
+Version             : 236745946
+Language            : 1033
+DisplayName         : Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{BD8C6100-7C7D-48DD-93BA-69F
+                      6828213FE}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {BD8C6100-7C7D-48DD-93BA-69F6828213FE}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+Publisher       : Microsoft Corporation
+DisplayName     : Windows 10 Update Assistant
+DisplayIcon     : "C:\Program Files (x86)\WindowsInstallationAssistant\Windows10UpgraderApp.exe"
+DisplayVersion  : 1.4.19041.2183
+UninstallString : "C:\Program Files (x86)\WindowsInstallationAssistant\Windows10UpgraderApp.exe" /ForceUninstall
+EstimatedSize   : 5120
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{D5C69738-B486-402E-85AC-2456D98
+                  A64E4}
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : {D5C69738-B486-402E-85AC-2456D98A64E4}
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}\DellUpdateSupportAssistPlugin.exe
+BundleUpgradeCode    : {{A60F13A5-D70B-4598-8210-A4A93B2CEC1C}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 5.5.4.16189
+VersionMajor         : 5
+VersionMinor         : 5
+BundleProviderKey    : {dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}
+BundleTag            :
+EngineVersion        : 3.11.2.4516
+DisplayIcon          : C:\ProgramData\Package Cache\{dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}\DellUpdateSupportAssistPlugin.exe,0
+DisplayName          : Dell SupportAssist OS Recovery Plugin for Dell Update
+DisplayVersion       : 5.5.4.16189
+Publisher            : Dell Inc.
+ModifyPath           : "C:\ProgramData\Package Cache\{dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}\DellUpdateSupportAssistPlugin.exe" /modify
+NoElevateOnModify    : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}\DellUpdateSupportAssistPlugin.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}\DellUpdateSupportAssistPlugin.exe"  /uninstall
+EstimatedSize        : 66544
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{dc44ee3f-d6c1-444d-a660-b0
+                       f1ac90b51d}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {dc44ee3f-d6c1-444d-a660-b0f1ac90b51d}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             : Customer Support Department
+DisplayVersion      : 4.1.0.478
+HelpLink            : http://support.dell.com
+HelpTelephone       : 1-877-717-3355
+InstallDate         : 20221129
+InstallLocation     : C:\Program Files (x86)\Dell\
+InstallSource       : C:\Windows\ccmcache\3\
+ModifyPath          : MsiExec.exe /I{DF3680A9-B4C6-48D1-ACEF-0FF004446314}
+Publisher           : Dell Inc.
+Readme              :
+Size                :
+EstimatedSize       : 61737
+UninstallString     : MsiExec.exe /I{DF3680A9-B4C6-48D1-ACEF-0FF004446314}
+URLInfoAbout        : http://www.dell.com
+URLUpdateInfo       : http://support.dell.com
+VersionMajor        : 4
+VersionMinor        : 1
+WindowsInstaller    : 1
+Version             : 67174400
+Language            : 0
+DisplayName         : Dell Command | Configure
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{DF3680A9-B4C6-48D1-ACEF-0FF
+                      004446314}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {DF3680A9-B4C6-48D1-ACEF-0FF004446314}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+EstimatedSize   : 137409
+ModifyPath      : "C:\Program Files (x86)\InstallShield Installation Information\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\Setup.exe" -runfromtemp
+NoModify        : 1
+NoRepair        : 1
+UninstallString : "C:\Program Files (x86)\InstallShield Installation Information\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\Setup.exe" -runfromtemp  -removeonly
+LogFile         : C:\Program Files (x86)\InstallShield Installation Information\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\setup.ilg
+InstallLocation : C:\Program Files (x86)\Realtek\Audio\Drivers
+ProductGuid     : {F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}
+InstallSource   : C:\ProgramData\Dell\drivers\fbc660ec-6b77-42d2-93b6-43cd4713a625\0\Drivers\
+DisplayName     : Realtek Audio Driver
+Publisher       : Realtek Semiconductor Corp.
+RegOwner        : Windows User
+DisplayIcon     : C:\Program Files (x86)\Realtek\Audio\Drivers\RtlUpd64.exe
+InstallDate     : 20221129
+Language        : 1033
+DisplayVersion  : 6.0.9400.1
+Version         : 72286208
+VersionMajor    : 4
+VersionMinor    : 79
+LogMode         : 1
+BackUnString    : "C:\Program Files (x86)\InstallShield Installation Information\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\Setup.exe" -runfromtemp  -removeonly
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F132AF7F-7BCA-4EDE-8A7C-958108F
+                  E7DBC}
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : {F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+AuthorizedCDFPrefix :
+Comments            :
+Contact             :
+DisplayVersion      : 48.2.312.0
+HelpLink            :
+HelpTelephone       :
+InstallDate         : 20230111
+InstallLocation     :
+InstallSource       : C:\Users\Semen_Adaikin\AppData\Local\Temp\7zS56C7\Required\
+ModifyPath          : MsiExec.exe /I{F1F00AD0-5CC5-45DD-8974-E3FD2A7B2DCC}
+Publisher           : HP
+Readme              :
+Size                :
+EstimatedSize       : 5192
+UninstallString     : MsiExec.exe /I{F1F00AD0-5CC5-45DD-8974-E3FD2A7B2DCC}
+URLInfoAbout        :
+URLUpdateInfo       :
+VersionMajor        : 48
+VersionMinor        : 2
+WindowsInstaller    : 1
+Version             : 805437752
+Language            : 1033
+DisplayName         : HP FTP Plugin
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F1F00AD0-5CC5-45DD-8974-E3F
+                      D2A7B2DCC}
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName         : {F1F00AD0-5CC5-45DD-8974-E3FD2A7B2DCC}
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+ModifyPath      : C:\Program Files (x86)\InstallShield Installation Information\{F7E7F0CB-AA41-4D5A-B6F2-8E6738EB063F}\Setup.exe -runfromtemp
+NoModify        : 1
+NoRepair        : 1
+UninstallString : C:\Program Files (x86)\InstallShield Installation Information\{F7E7F0CB-AA41-4D5A-B6F2-8E6738EB063F}\Setup.exe -runfromtemp -removeonly
+LogFile         : C:\Program Files (x86)\InstallShield Installation Information\{F7E7F0CB-AA41-4D5A-B6F2-8E6738EB063F}\setup.ilg
+InstallLocation : C:\Program Files (x86)\Realtek\Realtek Windows NIC Driver
+ProductGuid     : {F7E7F0CB-AA41-4D5A-B6F2-8E6738EB063F}
+InstallSource   : C:\ProgramData\Dell\drivers\38496236-eb74-49ff-945d-156bed4c7358\Legacy\Windows\
+DisplayName     : Realtek Ethernet Controller All-In-One Windows Driver
+Publisher       : Realtek
+URLInfoAbout    : http://www.Realtek.com
+RegOwner        : Windows User
+DisplayIcon     : C:\Program Files (x86)\Realtek\Realtek Windows NIC Driver\ICON\remove.ico
+InstallDate     : 20221129
+DisplayVersion  : 10.57.330.2022
+Version         : 171508042
+VersionMajor    : 10
+VersionMinor    : 57
+LogMode         : 1
+EstimatedSize   : 5940
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{F7E7F0CB-AA41-4D5A-B6F2-8E6738E
+                  B063F}
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName     : {F7E7F0CB-AA41-4D5A-B6F2-8E6738EB063F}
+PSDrive         : HKLM
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+BundleCachePath      : C:\ProgramData\Package Cache\{fa7f6d52-f85e-48ef-8f56-a37268aa5772}\VC_redist.x64.exe
+BundleUpgradeCode    : {{C146EF48-4D31-3C3D-A2C5-1E91AF8A0A9B}}
+BundleAddonCode      : {}
+BundleDetectCode     : {}
+BundlePatchCode      : {}
+BundleVersion        : 14.29.30135.0
+BundleProviderKey    : VC,redist.x64,amd64,14.29,bundle
+BundleTag            :
+EngineVersion        : 3.10.4.4718
+DisplayIcon          : C:\ProgramData\Package Cache\{fa7f6d52-f85e-48ef-8f56-a37268aa5772}\VC_redist.x64.exe,0
+DisplayName          : Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30135
+DisplayVersion       : 14.29.30135.0
+Publisher            : Microsoft Corporation
+ModifyPath           : "C:\ProgramData\Package Cache\{fa7f6d52-f85e-48ef-8f56-a37268aa5772}\VC_redist.x64.exe" /modify
+NoElevateOnModify    : 1
+QuietUninstallString : "C:\ProgramData\Package Cache\{fa7f6d52-f85e-48ef-8f56-a37268aa5772}\VC_redist.x64.exe" /uninstall /quiet
+UninstallString      : "C:\ProgramData\Package Cache\{fa7f6d52-f85e-48ef-8f56-a37268aa5772}\VC_redist.x64.exe"  /uninstall
+EstimatedSize        : 20623
+Resume               : 3
+Installed            : 1
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{fa7f6d52-f85e-48ef-8f56-a3
+                       7268aa5772}
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+PSChildName          : {fa7f6d52-f85e-48ef-8f56-a37268aa5772}
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
