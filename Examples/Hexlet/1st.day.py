@@ -6,4 +6,4 @@ def reader(filename):
         ips_list = re.findall(regexp, log)
     print(ips_list)
 if __name__ == '__main__':
-    reader('nginx_logs.txt')
+    reader('1.txt')
