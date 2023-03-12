@@ -2,8 +2,9 @@ a = int(input("Введите значение a:"))
 b = int(input("Введите значение b:"))
 database = []
 i = 0
+
 def decorator(func):
-    def wrapper():
+    def wrapper(*args, **kwargs):
 
 
         print("Код до выполнения:")
@@ -11,14 +12,16 @@ def decorator(func):
         print(database)
         print("Код после выполнения:")
         func()
+        i = func(*args)
         print(i)
+
 
     return wrapper
 
 @decorator
 def show():
 
-    i = (a + b)
+        return a + b
 
 show()
 #Можно вместо @decorator использовать так
