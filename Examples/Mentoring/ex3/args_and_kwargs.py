@@ -2,7 +2,7 @@
 def func(*args):
     print(args)
 
-func(3, 5, 6)
+func(3, 5, 6, 5)
 
 
 
@@ -30,3 +30,6 @@ def func4(*args, **kwargs):
     print(kwargs)
 l = [1, 2, 3]
 func4(l)
+
+
+

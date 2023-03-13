@@ -3,7 +3,7 @@ b = int(input("Введите значение b:"))
 
 
 def decorator(func):
-    def wrapper(*args, **kwargs):
+    def wrapper(*args):
 
         database = []
 
