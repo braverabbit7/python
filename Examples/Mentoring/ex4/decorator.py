@@ -13,12 +13,27 @@ def decorator(func):
 
     return wrapper
 
+def intcheck(show):
+    def wrapper1():
+        print(type(a))
+        show()
+        print(type(b))
+
+    return wrapper1
+
 
 @decorator
+#@intcheck
 def show():
     return a + b
 
 show()
+
+@decorator
+def show1():
+    return a - b
+
+show1()
 #Можно вместо @decorator использовать так
 #dec = decorator (show)
 #dec()
