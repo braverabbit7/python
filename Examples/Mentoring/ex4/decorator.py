@@ -1,7 +1,5 @@
 a = int(input("Введите значение a:"))
 b = int(input("Введите значение b:"))
-
-
 def decorator(func):
     def wrapper(*args):
 
@@ -15,10 +13,10 @@ def decorator(func):
 
     return wrapper
 
+
 @decorator
 def show():
-
-        return a + b
+    return a + b
 
 show()
 #Можно вместо @decorator использовать так
