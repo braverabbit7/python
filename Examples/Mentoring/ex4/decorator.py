@@ -1,7 +1,7 @@
 a = int(input("Введите значение a:"))
 b = int(input("Введите значение b:"))
 def decorator(func):
-    def wrapper(*args):
+    def wrapper(*args, **kwargs):
 
         database = []
         database.extend([a, b])
@@ -9,15 +9,15 @@ def decorator(func):
 
         func()
 
-        print("Код после выполнения:", func(*args))
+        print("Код после выполнения:", func(*args, **kwargs))
 
     return wrapper
 
-def intcheck(show):
+def intcheck(func):
     def wrapper1():
-        print(type(a))
-        show()
-        print(type(b))
+        print("a", type(a))
+        func()
+        print("b", type(b))
 
     return wrapper1
 
@@ -25,13 +25,15 @@ def intcheck(show):
 @decorator
 #@intcheck
 def show():
-    return a + b
+
+    return "Сложение", a + b
 
 show()
 
 @decorator
 def show1():
-    return a - b
+
+   return "Умножение", a * b
 
 show1()
 #Можно вместо @decorator использовать так
