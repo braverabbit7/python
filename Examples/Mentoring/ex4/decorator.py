@@ -6,15 +6,12 @@ def decorator(func):
     def wrapper(*args):
 
         database = []
-
-        print("Код до выполнения:")
         database.extend([a, b])
-        print(database)
-        func()
-        print("Код после выполнения:")
-        i = func(*args)
-        print(i)
+        print("Код до выполнения:", database)
 
+        func()
+
+        print("Код после выполнения:", func(*args))
 
     return wrapper
 
