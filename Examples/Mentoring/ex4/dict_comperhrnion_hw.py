@@ -1,8 +1,29 @@
-keys =["key1", "key2", "key3"]
-values = [1, 2, 3]
+keys =["key1", "key2", "key3", "ddadawd"]
+values = [1, 2, 3, 4]
 
 a = {
     keys[index]: values[index]
     for index in range(0, len(values))
 }
 print(a)
+
+
+#Написать через цикл for +-
+
+a ={}
+index = 0
+for i in keys:
+   a{i[index] = 7}
+  i += 1
+
+
+
+
+b={}
+
+
+b[5] = 6
+b[7] = 8
+b[9] = 10
+
+print(b)
