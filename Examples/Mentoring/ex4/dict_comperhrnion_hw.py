@@ -11,24 +11,8 @@ a = {
 #Написать через цикл for +-
 
 a ={}
-index = 0
-for i in values:
+for index, key in enumerate(keys):
 
-    a[keys[index]] = i
-#    print(keys[index])
-#    print(i)
-    index += 1
+    a[key] = values[index]
 
 print(a)
-
-
-
-
-#b={}
-
-
-#b[5] = 6
-#b[7] = 8
-#b[9] = 10
-
-#print(b)
