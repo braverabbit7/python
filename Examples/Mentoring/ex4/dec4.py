@@ -1,8 +1,6 @@
 def mul(m):
     def dec(func):
         def wrapper(*args):
-
-
             return func(*args)*m
 
         return wrapper
@@ -10,10 +8,8 @@ def mul(m):
 
 
 @mul(2)
-def func(*args):
-
-
+def func1(*args):
     return sum(args)
 
 
-print(func(1,2,3,4,6))
+print(func1(1, 2, 3, 4, 6))
