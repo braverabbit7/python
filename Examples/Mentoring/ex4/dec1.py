@@ -13,4 +13,4 @@ def simpe(a, b):
 
 
 simpe = decor(simpe)
-simpe(1, 2)
+simpe(1, 4)
