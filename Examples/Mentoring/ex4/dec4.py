@@ -13,3 +13,5 @@ def func1(*args):
 
 
 print(func1(1, 2, 3, 4, 6))
+
+
