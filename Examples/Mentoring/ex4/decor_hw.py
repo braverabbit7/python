@@ -3,10 +3,10 @@ def func_decoraator(func):
         print("--Before--")
         func()
         print("--After--")
-    return wrapper()
+    return wrapper
 
 def some_func():
     print("Some_func")
-func_decoraator(some_func)
+some_func = func_decoraator(some_func)
 
-
+some_func()
