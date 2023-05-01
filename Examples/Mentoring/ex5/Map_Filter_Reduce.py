@@ -5,5 +5,10 @@ print(b)
 def func(x):
     return x**2
 
-c=list(map(func, a))
+c=list(map(lambda x:x**2, a))
 print(c)
+
+
+print(list(map(str, a)))
+
+
