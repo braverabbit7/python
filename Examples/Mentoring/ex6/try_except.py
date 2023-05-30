@@ -6,10 +6,10 @@ try:
     x = int(x)
     y = int(y)
     res = x/y
-except ZeroDivisionError:
-    res = "Деление на ноль"
+except Exception:
+    res = "Ошибка"
 except ValueError:
-    res = "Не числовое значение"
+#    res = "Не числовое значение"
 
 else:
     print("Исключений не произошло ",res)
