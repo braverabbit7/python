@@ -1,0 +1,5 @@
+a = (1,2,3,4)
+l = iter(a)
+print(next(l))
+print(next(l))
+print(next(l))
